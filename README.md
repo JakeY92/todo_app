@@ -12,7 +12,7 @@ A modern and responsive to-do application built with Vue.js to help you manage y
 ## 🛠 Installation & Setup
 
 1. **Clone the repository**
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/JakeY92/todo_app.git
 
 2. **Navigate to the project directory**
    cd todo-app
