@@ -5,7 +5,7 @@ A modern and responsive to-do application built with Vue.js to help you manage y
 
 ## 🚀 Features
 
-- **Efficient Task Management:** Easily add, edit, and delete tasks.
+- **Efficient Task Management:** Easily add and delete tasks.
 - **Responsive Design:** Looks great on both desktop and mobile devices.
 - **Intuitive UI:** Designed to be user-friendly and easy to understand.
 
